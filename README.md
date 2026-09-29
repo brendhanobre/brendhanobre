@@ -76,7 +76,7 @@ If you're interested in **design, technology, creative projects or just building
     <img src="https://img.shields.io/badge/Nobilis-..."/>
   </a>
   <a href="(https://www.instagram.com/brendha._.nobre/)">
-    <img src="https://img.shields.io/badge/Instagram-..."/>
+    <img src="[https://img.shields.io/badge/Instagram-...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKWbnitPpgYPuE0TaoKaEPAfsKzuNzceltg4NUOIY-A&s=10)"/>
   </a>
   <a href="SEU_DISCORD">
     <img src="https://img.shields.io/badge/Discord-..."/>
